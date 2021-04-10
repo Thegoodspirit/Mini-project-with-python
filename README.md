@@ -1,5 +1,0 @@
-# Mini-project-with-python
-
-
-
-# LOGIN AND SIGIN SYSTEM WITH PYTHON AND MYSQLITE3
